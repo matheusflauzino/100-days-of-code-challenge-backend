@@ -1,0 +1,11 @@
+{
+  "name": "b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"This is B\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
